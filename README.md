@@ -16,3 +16,4 @@ $ yarn start
 ## Pages
 - Normal: [http://localhost:4000](http://localhost:4000)
 - Contain Client Component: [http://localhost:4000/about](http://localhost:4000/about)
+- RSC async/await fetch: [http://localhost:4000/todo](http://localhost:4000/todo)
